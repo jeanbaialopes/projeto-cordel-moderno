@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=DM+Serif+Text:ital@0;1&family=Tomorrow:ital,wght@0,100;0,400;0,700;1,400&family=Vina+Sans&display=swap');
+
+:root {
+    --font-title: 'Vina Sans', 'Arial', serif;
+    --font-text: 'Atkinson Hyperlegible Mono', sans-serif;
+    --font-strong: 'DM Serif Text', serif; 
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    min-height: 100vh;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    color: white;
+
+    font-variant: small-caps;
+
+    padding: 10px;
+}
+header h1 {
+    font-family: var(--font-title);
+    font-size: 3.5em;
+}
+header p {
+    font-family: var(--font-text);
+    font-size: 1em;
+    font-weight: bold;
+
+    padding: 10px;
+}
+header p > a {
+    text-decoration: none;
+    color: rgb(235, 202, 17);
+}
+header p > a:hover {
+    text-decoration: underline;
+}
+
+main {
+    font-family: var(--font-text);
+    font-style: italic;
+    font-weight: bold;
+
+    padding: 10px 40px;
+}
+
+main > *:not(:first-child) {
+    margin-top: 100px;
+}
+
+main >:first-child {
+    margin-top: 20px;
+}
+
+main p {
+    padding: 10px 0px;
+    line-height: 2.5em;
+}
+
+main section.block {
+    min-height: 500px;
+    /* border: 2px solid black; */
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;      
+}
+
+.block article {
+    width: fit-content;
+    padding: 0px 10px;
+}
+
+.block:nth-of-type(even) {
+    justify-content: flex-start;
+    
+}
+
+.block:nth-of-type(odd) {
+    justify-content: flex-end;
+}
+
+section#bk-img-1 {
+    padding: 0px;
+    color: white;
+    background: orange url(sources/imagens/background001.jpg) center center  no-repeat fixed;
+    background-size: cover;
+    border-radius: 5px;
+    background-size: cover;
+    box-shadow: inset 0px 0px 13px 0px rgba(0, 0, 0, 0.5);
+}
+section#bk-img-1 > article > p {
+    background-color: rgba(0, 0, 0, 0.096);
+    padding: 5px;
+}
+
+section#bk-img-2 {
+    color: white;
+    background: orange url(sources/imagens/background002.jpg) center center no-repeat fixed;
+    background-size: cover;
+    width: 100%;
+    border-radius: 5px;
+    background-size: cover;
+    box-shadow: inset 0px 0px 13px 0px rgba(0, 0, 0, 0.5);
+}
+section#bk-img-2 > article > p {
+    background-color: rgba(0, 0, 0, 0.267);
+    padding: 5px;
+    
+}
+
+footer {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+footer a:hover {
+    text-decoration: underline;
+} 
