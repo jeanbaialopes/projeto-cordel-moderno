@@ -7,8 +7,9 @@
 - [English](#English)
 
 ---
-# Português 
-<img src="https://flagcdn.com/w20/br.png" width="20"/>
+
+# Português&nbsp;<img src="https://flagcdn.com/w20/br.png" width="20"/>
+
 ### 📝 Sobre o Projeto
 O **Cordel Moderno** é uma experiência web imersiva dedicada à exposição da rica obra de **Milton Duarte**. Este projeto foi cuidadosamente desenvolvido para aplicar e demonstrar conhecimentos em desenvolvimento web front-end, unindo a tradição da literatura de cordel à sofisticação do design digital contemporâneo.
 
