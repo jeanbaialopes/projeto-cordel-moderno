@@ -7,8 +7,8 @@
 - [English](#English)
 
 ---
-# Português <img src="https://flagcdn.com/w20/br.png" width="20"/>
-
+# Português 
+<img src="https://flagcdn.com/w20/br.png" width="20"/>
 ### 📝 Sobre o Projeto
 O **Cordel Moderno** é uma experiência web imersiva dedicada à exposição da rica obra de **Milton Duarte**. Este projeto foi cuidadosamente desenvolvido para aplicar e demonstrar conhecimentos em desenvolvimento web front-end, unindo a tradição da literatura de cordel à sofisticação do design digital contemporâneo.
 
@@ -49,8 +49,8 @@ Desenvolvido por **Jean Baia Lopes**.
 
 <hr style="height:6px; border:none; background-color:#444;">
 
-# English <img src="https://flagcdn.com/w20/us.png" width="20"/> 
-
+# English
+ <img src="https://flagcdn.com/w20/us.png" width="20"/> 
 ### 📝 About the Project
 **Cordel Moderno** is an immersive web experience dedicated to showcasing the rich work of **Milton Duarte**. This project was carefully developed to apply and demonstrate knowledge in front-end web development, blending the tradition of "cordel" literature with the sophistication of contemporary digital design.
 
