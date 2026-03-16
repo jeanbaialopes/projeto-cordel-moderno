@@ -51,6 +51,7 @@ Desenvolvido por **Jean Baia Lopes**.
 <hr style="height:6px; border:none; background-color:#444;">
 
 # English&nbsp;<img src="https://flagcdn.com/w20/us.png" width="20"/> 
+
 ### 📝 About the Project
 **Cordel Moderno** is an immersive web experience dedicated to showcasing the rich work of **Milton Duarte**. This project was carefully developed to apply and demonstrate knowledge in front-end web development, blending the tradition of "cordel" literature with the sophistication of contemporary digital design.
 
