@@ -39,7 +39,7 @@ Para visualizar ou trabalhar com este projeto localmente, você precisará de:
 O projeto é uma página estática interativa. Ao rolar a página, observe como as imagens de fundo se movem em velocidades diferentes do conteúdo textual, criando o efeito de parallax que adiciona profundidade e dinamismo à experiência de leitura.
 
 ### 🔗 Demo/Live
-> [Ver](https://github.com/jeanbaialopes/jeanbaialopes)
+> [Ver](https://jeanbaialopes.github.io/projeto-cordel-moderno/)
 
 ### 📄 Licença
 Este projeto está licenciado sob a **Licença MIT**. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) no repositório.
@@ -80,7 +80,7 @@ To view or work with this project locally, you will need:
 The project is an interactive static page. As you scroll down the page, observe how the background images move at different speeds than the textual content, creating the parallax effect that adds depth and dynamism to the reading experience.
 
 ### 🔗 Demo/Live
-> [View](https://github.com/jeanbaialopes/jeanbaialopes)
+> [View](https://jeanbaialopes.github.io/projeto-cordel-moderno/)
 
 ### 📄 License
 This project is licensed under the **MIT License**. For more details, see the [LICENSE](LICENSE) file in the repository.
